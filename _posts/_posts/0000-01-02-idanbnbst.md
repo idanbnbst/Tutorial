@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Idan is the only comitter
+"Your Text"
 Use the left arrow to go back!
