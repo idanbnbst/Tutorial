@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"My new text"
+"Idan is this project owner"
 Use the right arrow to go back!
